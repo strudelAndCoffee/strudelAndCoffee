@@ -13,6 +13,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=strudelAndCoffee&show_icons=true&hide=stars&theme=codeSTACKr" alt="Stevie's GitHub Stats">
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=strudelAndCoffee&show_icons=true&hide=Handlebars&theme=codeSTACKr" alt="Stevie's most used languages"/>
-</p>
