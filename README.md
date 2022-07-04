@@ -4,7 +4,7 @@
   Thanks for visiting,
 </p>
 <p align="center">
-  Checkout my <a href="https://strudelandcoffee.github.io/react-portfolio/" target="_blank">Portfolio</a> and my <a href="https://www.linkedin.com/in/stevie-trudell-atx/" target="_blank">LinkedIn</a> profile to learn more about me and my my work...
+  Check out my <a href="https://strudelandcoffee.github.io/react-portfolio/" target="_blank">Portfolio</a> and my <a href="https://www.linkedin.com/in/stevie-trudell-atx/" target="_blank">LinkedIn</a> profile to learn more about me and my my work...
 </p>
 <p align="center">
   Stay weird. :coffee::earth_americas::green_heart:
