@@ -2,10 +2,7 @@
    Thank you for visiting!
 </p>
 <p align="center">
-   Please take a look around. If you need to contact me, you will find my developer email listed under my profile.
-<p>
-<p align="center">
-  You may check out my <a href="https://strudelandcoffee.github.io/react-portfolio/" target="_blank">Portfolio</a> site and <a href="https://www.linkedin.com/in/stevie-trudell-atx/" target="_blank">LinkedIn</a> profile to learn more about me and my work.
+   Please take a look around. If you need to contact me, you will find my developer email listed under my profile. You may check out my <a href="https://strudelandcoffee.github.io/react-portfolio/" target="_blank">Portfolio</a> site and <a href="https://www.linkedin.com/in/stevie-trudell-atx/" target="_blank">LinkedIn</a> profile to learn more about me and my work.
 </p>
 <p align="center">
   Stay weird. :coffee:
