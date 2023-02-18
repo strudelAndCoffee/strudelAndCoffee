@@ -1,13 +1,13 @@
-# <p align="center">Hi!</p> 
+# <p align="center">Hi :wave:</p> 
 
 <p align="center">
-  Thanks for visiting,
+   A big thank you for visiting my profile, truly!
 </p>
 <p align="center">
-  Check out my <a href="https://strudelandcoffee.github.io/react-portfolio/" target="_blank">Portfolio</a> and my <a href="https://www.linkedin.com/in/stevie-trudell-atx/" target="_blank">LinkedIn</a> profile to learn more about me and my work!
+  You may can also check out my <a href="https://strudelandcoffee.github.io/react-portfolio/" target="_blank">Portfolio</a> site and <a href="https://www.linkedin.com/in/stevie-trudell-atx/" target="_blank">LinkedIn</a> profile to learn more about me and my work.
 </p>
 <p align="center">
-  Stay weird. :coffee::earth_americas::green_heart:
+  Stay weird. :coffee:
 </p>
 
 <p align="center">
